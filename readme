@@ -1,0 +1,14 @@
+
+
+minikube:
+
+  https://medium.com/@subbarao.pilla/k8s-selenium-grid-selenium-grid-with-docker-on-kubernetes-42af8b9a2cba
+  
+k8s-cluster with yaml:
+
+  https://medium.com/@sahajamit/spinning-up-your-own-scalable-selenium-grid-in-kubernetes-part-1-e4017bac68f4
+  
+  hub:
+  https://gist.github.com/sahajamit/784f83cf6483eb807dca7ebfcacc3b20
+  node:
+  https://gist.github.com/sahajamit/a89c8cf76a53cf924c1a27460edad4aa#file-selenium-node-chrome-deployment-yaml
